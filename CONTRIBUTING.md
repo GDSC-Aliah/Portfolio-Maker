@@ -8,10 +8,7 @@ A place where you can create and host your portfolios
 ## Add your portfolio
 - Download the repo as a ZIP or clone it
 - To download, click on the *green* `Code` button
-- Unzip the file and open the `Portfolio-Maker` folder
-- Create a **new** copy of the `Template` folder with a unique name
-- A unique name could be your own **GitHub Username**
-- Add your own portfolio here
+- Add your commits and push
 
 ## Open a PR
 - Open a well-written PR
