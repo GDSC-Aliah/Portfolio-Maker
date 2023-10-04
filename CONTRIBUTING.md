@@ -15,5 +15,5 @@ A place where you can create and host your portfolios
 - Wait for approval
 
 ## PS
-- Of course you can add any modification you desire
-- Make sure its is an improvement to the repo
+- Make sure your contribution is an improvement to the repo
+- Badly written PRs or spams will be rejected
